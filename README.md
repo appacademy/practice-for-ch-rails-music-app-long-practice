@@ -18,7 +18,7 @@ By the end of this project, you should be able to
 - Trigger controller actions from views using forms and links
 - Check that a current user exists before displaying content
 
-**Throughout this project, do not use `form_for`.**
+**Throughout this project, do not use `form_with`.**
 
 ## Warm up: Authentication
 
