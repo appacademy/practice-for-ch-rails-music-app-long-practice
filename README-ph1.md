@@ -2,7 +2,7 @@
 
 **[Live Demo!][live-demo]**
 
-[live-demo]: https://aamusicapp.herokuapp.com
+[live-demo]: https://aa-music-app.herokuapp.com
 
 ## Phase I: Band/Album/Track
 

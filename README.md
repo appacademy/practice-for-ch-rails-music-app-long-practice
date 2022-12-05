@@ -6,7 +6,7 @@ Today you're going to build an inventory system for record labels. This app will
 let the labels track their `Band`s, `Album`s, and `Track`s. Additionally, you'll
 offer user accounts so users can comment on the inventory.
 
-[live-demo]: https://aamusicapp.herokuapp.com
+[live-demo]: https://aa-music-app.herokuapp.com
 
 ## Learning goals
 
